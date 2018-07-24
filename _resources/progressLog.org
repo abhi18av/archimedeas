@@ -1,3 +1,4 @@
 TODO:
 
 - polyglot ( library to deal with languages )
+- glossika text palace
